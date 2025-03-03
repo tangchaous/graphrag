@@ -1,0 +1,3 @@
+[submodule "graphrag-accelerator"]
+	path = graphrag-accelerator
+	url = https://github.com/tangchaous/graphrag-accelerator.git

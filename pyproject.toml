@@ -157,8 +157,9 @@ dependencies = [
     "json-repair<1.0.0,>=0.30.3",
     "tqdm<5.0.0,>=4.67.1",
     "httpx<1.0.0,>=0.28.1",
+    "graphrag>=1.1.2",
 ]
-name = "graphrag"
+name = "graphrag-test"
 version = "1.1.2"
 description = "GraphRAG: A graph-based retrieval-augmented generation (RAG) system."
 readme = "README.md"
